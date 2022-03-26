@@ -1,1 +1,1 @@
-# JUnit-Test
+Here, You will find total 6 classes. If you run AllTests.java, you will get the result of alltest at a time. If you want the individual result like, divide method  of JunitTesting, you need to run divideTestNegative or divideTestPositive class. 
