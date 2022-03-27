@@ -1,1 +1,1 @@
-Here, You will find total 6 classes. If you run AllTests.java, you will get the result of alltest at a time. If you want the individual result like, divide method  of JunitTesting, you need to run divideTestNegative or divideTestPositive class. 
+Here, You will find total 6 classes. After adding all 6 classes in a package, if you run AllTests.java, you will get the result of all testing classes at a time. If you want the individual result like, divide method  of JunitTesting, you need to run divideTestNegative or divideTestPositive class. 
